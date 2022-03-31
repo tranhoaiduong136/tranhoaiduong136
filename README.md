@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/60745952/161017519-4d2da8e7-94e9-49ec-b5a6-340326f58b6e.png)
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoaiduong.tran.73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duong-tran-2a7935213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSKdErRboTnWLjn8tAU1Kuw%3D%3D) 
 
